@@ -1,0 +1,229 @@
+@media screen and (min-width:992px) and (max-width:1024px) {
+    ul.selectnumber li {
+        padding: 10px 3px;
+    }
+    ul.selectnumber {
+        margin: 20px 0;
+    }
+    .rightcontsli h4 {
+        text-align: center;
+        margin-top:0;
+    }
+    .rightcontsli h2 {
+        margin-top: 0;
+    }
+    .rightcontsli h4 {
+        font-size: 26px;
+    }
+    .rightcontsli .boxslide h1 {
+        
+        font-size: 18px;
+    }
+    .rangeslide {
+        margin: 20px;
+    }
+    .checkboxste label i.fa {
+        font-size: 26px;
+        margin-top: 2px;
+    }
+    .checkboxste label span {
+        font-size: 16px;
+        padding-top:0;
+    }
+    .slider .header-text h3 {
+        font-size: 26px;
+    }
+    .slider .header-text .logo img {
+        padding-bottom: 20px;
+    }
+    .rightcontsli h2 {
+        margin-top: 0;
+    }
+    .rangeslide {
+        border-radius: 15px;
+        margin: 20px 5px 20px 5px;
+    }
+    .slider .header-text .col-md-5.col-md-offset-1 {
+        padding: 0;
+    }
+    ul.selectnumber li {
+        padding: 10px 3px;
+    }
+    .applynow input[type="submit"] {
+        margin-bottom: 10px;
+    }
+    ul.selectnumber li label {
+        width: 48px;
+        padding: 7px;
+    }
+}
+
+@media screen and (max-width:991px) {
+
+}
+@media screen and (max-width:991px) {
+    .peoplesays .testimonial .pic {
+        width: 90px;
+        height: 90px;
+        margin: 20px auto;
+        float:none;
+    }
+    .peoplesays .testimonial {
+        text-align: center;
+    }
+    .footer .aboutfoo img {
+        width: 300px;
+        text-align: left;
+    }
+
+    .footer .aboutfoo h5 {
+        padding-top: 30px;
+        padding-bottom: 28px;
+    }
+    .bootom-footer p {
+        text-align: center;
+    }
+    .peoplesays .testimonial {
+        padding: 15px;
+    }
+    .westarted .col-md-6 {
+        clear: both;
+    }
+    .slider .carousel-inner img.banner1 {
+        min-height: 600px;
+    }
+    .rightcontsli h4 {
+        text-align: center;
+        margin-top:0;
+    }
+    .rightcontsli h2 {
+        margin-top: 0;
+    }
+    .rightcontsli h4 {
+        font-size: 26px;
+    }
+    .rightcontsli .boxslide h1 {
+        margin-top: 0;
+    }
+    .rangeslide {
+        margin: 20px;
+    }
+    .slider .header-text .logo img {
+        padding-bottom:10px;
+    }
+    ul.selectnumber li {
+        padding: 10px 3px;
+    }
+    ul.selectnumber {
+        margin: 10px 0;
+    }
+    .slider .header-text .logo {
+        width:100%;
+    }
+        .slider .header-text .logo img {
+            margin: 0 auto;
+        }
+    .serviceset {
+        background-repeat: repeat;
+    }
+    a.abtbtn {
+        margin-bottom: 40px;
+    }
+
+}
+@media screen and (max-width:600px) {
+    .slider .header-text h3 {
+        font-size: 22px;
+    }
+    .slider .header-text h5 {
+        font-size: 16px;
+    }
+    .slider .carousel-inner img.banner1 {
+        min-height: 700px;
+    }
+    .checkboxste label span {
+        font-size: 15px;
+    }
+    .checkboxste label i.fa {
+        width: 22px;
+    font-size: 20px;
+    margin-top: 6px;
+    }
+    .checkboxste label span {
+        padding-top: 0;
+    }
+    .slider .arrow img {
+        width: 190px;
+    }
+    .rightcontsli h4 {
+        text-align: center;
+        font-weight: 600;
+        font-size: 22px;
+        color: #fff;
+        padding: 20px 0;
+        margin: 0;
+    }
+    .slider .header-text .col-md-6 {
+        padding-right: 0;
+    }
+    .slider .header-text .logo img {
+        padding-bottom: 10px;
+    }
+    .rightcontsli h2 {
+        font-size: 16px;
+    }
+    .rightcontsli .boxslide h1 {
+        font-size: 18px;
+        margin-top:0;
+    }
+/*    ul.selectnumber li label {
+        padding: 4px;
+        width: 45px;
+    }*/
+    .applynow input[type="submit"] {
+        font-size: 22px;
+    }
+    .range-slider .range-values {
+    }
+    .rangeslide output {
+    }
+    .abtimg {
+        clear: both;
+    }
+    a.abtbtn {
+        margin-bottom: 40px;
+    }
+    .rightcontsli h2 {
+        margin-top: 0;
+    }
+    .rangeslide {
+        border-radius: 15px;
+        margin: 20px 5px 20px 5px;
+    }
+    .slider .header-text .col-md-5.col-md-offset-1 {
+        padding: 0;
+    }
+    ul.selectnumber li {
+        padding: 10px 3px;
+    }
+    .applynow input[type="submit"] {
+        margin-bottom: 10px;
+    }
+    .slider .header-text .logo {
+        width:100%;
+    }
+        .slider .header-text .logo img {
+            margin: 0 auto;
+        }
+    .westarted h5 {
+        font-size: 22px;
+    }
+}
+
+@media screen and (max-width:330px) {
+/*    ul.selectnumber li label {
+        padding: 5px;
+        width: 35px;
+        font-size: 18px;
+    }*/
+}
